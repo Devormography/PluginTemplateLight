@@ -23,6 +23,8 @@ public final class PluginTemplate extends SimplePlugin {
         System.out.println(1);
         System.out.println("knock, knock");
 
+        int anInt = 2;
+
     }
 
     /* ------------------------------------------------------------------------------- */
